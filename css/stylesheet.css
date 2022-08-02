@@ -1,0 +1,30 @@
+/* style all font awesome icons */
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+} 
+
+/* add a hover effect */
+.fa.hoover [
+    capacity: 0.7;
+]
+
+/* set specific color */
+
+/* facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+
+}
+
+/* twitter */
+.fa-twitter {
+    background: #5B5997;
+    color: white;
+
+}
